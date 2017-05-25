@@ -1,0 +1,5 @@
+E:\CSharp\asp.net\project\SSCS\Model\bin\Debug\SSCS.Model.dll
+E:\CSharp\asp.net\project\SSCS\Model\bin\Debug\SSCS.Model.pdb
+E:\CSharp\asp.net\project\SSCS\Model\obj\Debug\SSCS.Model.dll
+E:\CSharp\asp.net\project\SSCS\Model\obj\Debug\SSCS.Model.pdb
+E:\CSharp\asp.net\project\SSCS\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+E:\CSharp\asp.net\project\SSCS\Common\bin\Debug\SSCS.Common.dll
+E:\CSharp\asp.net\project\SSCS\Common\bin\Debug\SSCS.Common.pdb
+E:\CSharp\asp.net\project\SSCS\Common\bin\Debug\COM.Excel.dll
+E:\CSharp\asp.net\project\SSCS\Common\bin\Debug\Excel.dll
+E:\CSharp\asp.net\project\SSCS\Common\bin\Debug\OpenSmtp.dll
+E:\CSharp\asp.net\project\SSCS\Common\bin\Debug\OWC10Chart.dll
+E:\CSharp\asp.net\project\SSCS\Common\bin\Debug\office.dll
+E:\CSharp\asp.net\project\SSCS\Common\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\CSharp\asp.net\project\SSCS\Common\bin\Debug\stdole.dll
+E:\CSharp\asp.net\project\SSCS\Common\obj\Debug\SSCS.Common.dll
+E:\CSharp\asp.net\project\SSCS\Common\obj\Debug\SSCS.Common.pdb
+E:\CSharp\asp.net\project\SSCS\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

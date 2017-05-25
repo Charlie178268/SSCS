@@ -1,0 +1,9 @@
+E:\CSharp\asp.net\project\SSCS\DBUtility\bin\Debug\SSCS.DBUtility.dll
+E:\CSharp\asp.net\project\SSCS\DBUtility\bin\Debug\SSCS.DBUtility.pdb
+E:\CSharp\asp.net\project\SSCS\DBUtility\bin\Debug\IBatisNet.Common.dll
+E:\CSharp\asp.net\project\SSCS\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+E:\CSharp\asp.net\project\SSCS\DBUtility\bin\Debug\MySql.Data.dll
+E:\CSharp\asp.net\project\SSCS\DBUtility\bin\Debug\System.Data.SQLite.DLL
+E:\CSharp\asp.net\project\SSCS\DBUtility\obj\Debug\SSCS.DBUtility.dll
+E:\CSharp\asp.net\project\SSCS\DBUtility\obj\Debug\SSCS.DBUtility.pdb
+E:\CSharp\asp.net\project\SSCS\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache

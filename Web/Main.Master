@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="Web.Main" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link href="style/Style.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+     <form id="form1" runat="server">
+    <div id="header">
+         <div class="logo">
+             <asp:Image ID="Image1"  ImageUrl="~/images/log.jpg" runat="server" />
+         </div>
+         <div class="top">
+             <asp:Image ID="Image2" Width="500px" ImageUrl="~/images/1.jpg" runat="server" />
+         </div>
+    </div>
+    <div class="line"></div>
+
+    <div id="body">
+        <div class="navbar">
+             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+             </asp:ContentPlaceHolder>
+        </div>
+        <div class="content">
+            <div class="table">
+                <table>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                    </asp:ContentPlaceHolder>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="line"></div>
+    <div id="footer">
+        <p>选课</p>
+        <p>1400801235乔磊</p>
+    </div>
+    </form>
+</body>
+</html>
